@@ -21,7 +21,7 @@ function llamarDb(url) {
     .then((dato) => {
       const data = dato;
       for (const key in data) {
-        console.log(key)
+     //   console.log(key)
         const mainSeccion = document.createElement("MainSection");
         mainSeccion.classList.add("mainSeccion");
         const seccion = document.createElement("section");
@@ -38,17 +38,17 @@ function llamarDb(url) {
             let $tipos = document.createElement("article");
             $tipos.innerHTML=""
             datos = data[key][articulo];
-            console.log(datos);
+            //console.log(datos);
 
             $precio = "";
 
             //Armando el arreglo
             datos[2].forEach((element, i) => {
-              console.log(element)
+              //console.log(element)
                 $tipos.innerHTML+= `${element} `;
               // console.log(element);
             });
-            console.log($tipos)
+            //console.log($tipos)
             let $precios=""
 
               $precios +=`<span class="precio">
@@ -66,7 +66,7 @@ function llamarDb(url) {
             `;
 
             seccion.innerHTML += art;
-            console.log(titulo)
+            //console.log(titulo)
             
             mainSeccion.appendChild(titulo);
            mainSeccion.appendChild(seccion);
