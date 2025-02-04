@@ -1,0 +1,303 @@
+{
+  "MENU": {
+    "CLASICAS": [
+      [
+        "Margherita",
+        "La clásica italiana con sabores simples y frescos.",
+        [
+          "Salsa de tomate",
+          "queso mozzarella",
+          "albahaca fresca",
+          "aceite de oliva"
+        ],
+        ["8500","15500"]
+      ],
+      [
+        "Pepperoni",
+        "La favorita de todos, con pepperoni picante y queso derretido.",
+        ["Salsa de tomate", "queso mozzarella", "pepperoni"],
+        ["8500","15500"]
+      ],
+      [
+        "Hawaiana",
+        "La combinación dulce y salada que divide opiniones.",
+        ["Salsa de tomate", "queso mozzarella", "jamón", "piña"],
+        ["8500","15500"]
+      ],
+      [
+        "Cuatro Quesos",
+        "Un festín de quesos para los amantes del queso.",
+        [
+          "Salsa de tomate",
+          "queso mozzarella",
+          "queso gorgonzola",
+          "queso parmesano",
+          "queso fontina"
+        ],
+        ["8500","15500"]
+      ],
+      [
+        "Napolitana",
+        "La esencia de Nápoles en una pizza.",
+        [
+          "Salsa de tomate",
+          "queso mozzarella",
+          "anchoas",
+          "orégano",
+          "aceitunas"
+        ],
+        ["8500","15500"]
+      ],
+      [
+        "Vegetariana",
+        "Una opción fresca y llena de vegetales.",
+        [
+          "Salsa de tomate",
+          "queso mozzarella",
+          "champiñones",
+          "pimiento verde",
+          "cebolla",
+          "aceitunas",
+          "tomate fresco"
+        ],
+        ["8500","15500"]
+      ],
+      [
+        "Carbonara",
+        "Inspirada en la famosa pasta, cremosa y deliciosa.",
+        [
+          "Salsa de crema",
+          "queso mozzarella",
+          "panceta",
+          "huevo",
+          "cebolla",
+          "pimienta negra"
+        ],
+        ["8500","15500"]
+      ],
+      [
+        "BBQ Chicken",
+        "Un toque ahumado con pollo y salsa BBQ.",
+        [
+          "Salsa BBQ",
+          "queso mozzarella",
+          "pollo a la parrilla",
+          "cebolla caramelizada",
+          "cilantro"
+        ],
+        ["8500","15500"]
+      ],
+      [
+        "Capricciosa",
+        "Una mezcla de sabores italianos en cada bocado.",
+        [
+          "Salsa de tomate",
+          "queso mozzarella",
+          "jamón",
+          "champiñones",
+          "alcachofas",
+          "aceitunas"
+        ],
+        ["8500","15500"]
+      ],
+      [
+        "Diavola",
+        "Para los amantes del picante, con un toque italiano.",
+        [
+          "Salsa de tomate",
+          "queso mozzarella",
+          "salchichón picante",
+          "chiles jalapeños",
+          "orégano"
+        ],
+        ["8500","15500"]
+      ]
+    ],
+
+    "EXOTICAS": [
+      [
+        "Tropical Bliss",
+        "Un viaje a los trópicos en cada bocado.",
+        [
+          "Base de salsa de mango",
+          "queso mozzarella",
+          "pollo a la parrilla",
+          "piña asada",
+          "tocino crujiente",
+          "cilantro fresco"
+        ],
+        ["8500","15500"]
+      ],
+      [
+        "Mediterranean Dream",
+        "Frescura y equilibrio inspirados en el Mediterráneo.",
+        [
+          "Base de pesto",
+          "queso feta",
+          "tomates secos",
+          "aceitunas Kalamata",
+          "espinacas frescas",
+          "alcaparras"
+        ],
+        ["8500","15500"]
+      ],
+      [
+        "BBQ Jackfruit Fusion",
+        "Una opción vegana con un toque ahumado.",
+        [
+          "Base de salsa BBQ",
+          "jackfruit desmenuzado",
+          "cebolla caramelizada",
+          "pimiento rojo asado",
+          "cilantro"
+        ],
+        ["8500","15500"]
+      ],
+      [
+        "Truffle Elegance",
+        "Lujo y sofisticación en cada porción.",
+        [
+          "Base de crema de trufa",
+          "queso fontina",
+          "champiñones salteados",
+          "prosciutto",
+          "rúcula fresca"
+        ],
+        ["8500","15500"]
+      ],
+      [
+        "Spicy Sriracha Delight",
+        "Para los amantes del picante.",
+        [
+          "Base de salsa Sriracha",
+          "queso mozzarella",
+          "chorizo",
+          "jalapeños en rodajas",
+          "cebolla morada",
+          "cilantro"
+        ],
+        ["8500","15500"]
+      ],
+      [
+        "Breakout Brunch",
+        "El desayuno se convierte en pizza.",
+        [
+          "Base de salsa holandesa",
+          "queso cheddar",
+          "huevo pochado",
+          "tocino crujiente",
+          "espinacas frescas"
+        ],
+        ["8500","15500"]
+      ],
+      [
+        "Indian Tandoori Twist",
+        "Sabores audaces de la India.",
+        [
+          "Base de salsa tandoori",
+          "pollo marinado",
+          "cebolla caramelizada",
+          "pimiento rojo",
+          "cilantro fresco"
+        ],
+        ["8500","15500"]
+      ],
+      [
+        "Forest Mushroom Magic",
+        "Un homenaje a los hongos silvestres.",
+        [
+          "Base de crema de trufa",
+          "mezcla de hongos (portobello, shiitake, champiñones)",
+          "queso gouda",
+          "tomillo fresco"
+        ],
+        ["8500","15500"]
+      ],
+      [
+        "Sweet & Savory Fig",
+        "Un equilibrio perfecto entre dulce y salado.",
+        [
+          "Base de queso brie",
+          "higos caramelizados",
+          "prosciutto",
+          "rúcula",
+          "reducción de balsámico"
+        ],
+        ["8500","15500"]
+      ],
+      [
+        "Korean Kimchi Kick",
+        "Fermentado y lleno de sabor.",
+        [
+          "Base de salsa gochujang",
+          "kimchi",
+          "carne de res marinada",
+          "queso mozzarella",
+          "cebollín"
+        ],
+        ["8500","15500"]
+      ],
+      [
+        "Lemon Herb Chicken",
+        "Fresco y cítrico.",
+        [
+          "Base de salsa de limón y hierbas",
+          "pollo asado",
+          "espinacas",
+          "queso ricotta",
+          "ralladura de limón"
+        ],
+        ["8500","15500"]
+      ],
+      [
+        "Buffalo Cauliflower Crunch",
+        "Vegana y crujiente.",
+        [
+          "Base de salsa Buffalo",
+          "coliflor crujiente",
+          "zanahoria rallada",
+          "apio fresco",
+          "aderezo ranch vegano"
+        ],
+        ["8500","15500"]
+      ],
+      [
+        "Cuban Fiesta",
+        "Sabores vibrantes de Cuba.",
+        [
+          "Base de salsa de mojo",
+          "cerdo desmenuzado",
+          "jamón",
+          "queso suizo",
+          "pepinillos",
+          "mostaza"
+        ],
+        ["8500","15500"]
+      ],
+      [
+        "Thai Peanut Fusion",
+        "Exótica y cremosa.",
+        [
+          "Base de salsa de maní",
+          "pollo teriyaki",
+          "zanahoria rallada",
+          "cilantro",
+          "cacahuates triturados"
+        ],
+        ["8500","15500"]
+      ],
+      [
+        "Dessert Nutella Dream",
+        "Un postre en forma de pizza.",
+        [
+          "Base de Nutella",
+          "fresas frescas",
+          "plátano en rodajas",
+          "malvaviscos tostados",
+          "chispas de chocolate"
+        ],
+        ["8500","15500"]
+      ]
+    ]
+  }
+}
